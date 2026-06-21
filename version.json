@@ -1,0 +1,6 @@
+{
+  "versionCode": 11,
+  "versionName": "3.0.1",
+  "changelog": "Fixed page blank screen bugs, added 2-column grid tab switcher, optimized memory usage, resolved active tab index shifts, kept tab switcher persistent on item close, configured test ads, bypassed YouTube blank screen ad lags, and resolved home page reload history bugs.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.1/app-debug.apk"
+}

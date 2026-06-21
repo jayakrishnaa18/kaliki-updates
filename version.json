@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0.2",
-  "changelog": "Complete UI/UX redesign: Introducing the premium Midnight Slate & Royale Indigo theme, integrated branded New Tab Page logo, added fine divider boundaries, and streamlined native update checker integration.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.2/app-debug.apk"
+  "versionCode": 13,
+  "versionName": "3.0.3",
+  "changelog": "Fixed updates download exception on Android 14+ devices, and applied professional Midnight Slate UI/UX upgrades.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.3/app-debug.apk"
 }

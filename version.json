@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "3.0.8",
-  "changelog": "Fixed Google News URL decoding JSON payload double-quotes escaping bug to enable cover image scraping. Redesigned all navigation icons with modern solid fills. Resolved Native Ad layout formatting by adding MediaView and distributing ad slots every 5 articles.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.8/app-debug.apk"
+  "versionCode": 20,
+  "versionName": "4.0.0",
+  "changelog": "Overhauled the user interface to Kaliki Browser 2.0. Introduced an ergonomic bottom control bar merging URL and navigation controls, and a redesigned quick-actions grid menu.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v4.0.0/app-debug.apk"
 }

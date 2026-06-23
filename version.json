@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "3.0.5",
-  "changelog": "Full Chrome-style Discover feed: full-width article cards with large cover images, share and more options buttons, flat edge-to-edge design matching Google Discover exactly.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.5/app-debug.apk"
+  "versionCode": 16,
+  "versionName": "3.0.6",
+  "changelog": "Stunning new Midnight Cocoa & Golden Amber theme (matching Chrome's warm dark style). Upgraded discover feed to fetch live Google News top stories and added robust image loading.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.6/app-debug.apk"
 }

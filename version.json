@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "3.0.7",
-  "changelog": "Resolved Discover feed image loading issue by implementing Google News link decoding (batchexecute API) to fetch and display high-quality cover images for all articles.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.7/app-debug.apk"
+  "versionCode": 18,
+  "versionName": "3.0.8",
+  "changelog": "Fixed Google News URL decoding JSON payload double-quotes escaping bug to enable cover image scraping. Redesigned all navigation icons with modern solid fills. Resolved Native Ad layout formatting by adding MediaView and distributing ad slots every 5 articles.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.8/app-debug.apk"
 }

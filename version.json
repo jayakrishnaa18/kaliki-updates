@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "3.0.6",
-  "changelog": "Stunning new Midnight Cocoa & Golden Amber theme (matching Chrome's warm dark style). Upgraded discover feed to fetch live Google News top stories and added robust image loading.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.6/app-debug.apk"
+  "versionCode": 17,
+  "versionName": "3.0.7",
+  "changelog": "Resolved Discover feed image loading issue by implementing Google News link decoding (batchexecute API) to fetch and display high-quality cover images for all articles.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.7/app-debug.apk"
 }

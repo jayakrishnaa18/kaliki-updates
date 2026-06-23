@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "4.0.1",
-  "changelog": "Simulated test update for Kaliki Browser 2.0 to verify update prompts and APK downloads.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v4.0.0/app-debug.apk"
+  "versionCode": 2,
+  "versionName": "5.0",
+  "changelog": "Kaliki Browser 5.0: Fixed YouTube full-screen, background audio, and black screen issues. Improved news feed with automatic fallback for broken cover images. Added home button to nav bar, splash animation, history search filter, tab thumbnail previews, HD favicons, and adjustable address bar position.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

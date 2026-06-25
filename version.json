@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "5.0 version 3",
-  "changelog": "Kaliki Browser 5.0 version 3: Added uBlock Origin Lite-style network request blocker, modern edge-to-edge transparent system bars (seamless status/navigation padding), resolved background service running after app close, and expanded memory heap for smooth performance.",
+  "versionCode": 23,
+  "versionName": "5.0 version 4",
+  "changelog": "Kaliki Browser 5.0 version 4: Integrated native-style WebExtension adblocker, modern transparent edge-to-edge system bars padding, bypassed welcome/splash delay for instant browser startup, and fixed background service persistence.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

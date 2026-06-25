@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "5.0 version 4",
-  "changelog": "Kaliki Browser 5.0 version 4: Integrated native-style WebExtension adblocker, modern transparent edge-to-edge system bars padding, bypassed welcome/splash delay for instant browser startup, and fixed background service persistence.",
+  "versionCode": 24,
+  "versionName": "5.0 version 5",
+  "changelog": "Kaliki Browser 5.0 version 5: Repositioned search suggestions dynamically so they appear above the keyboard in bottom address bar mode, fixed top suggestion overlapping status bar, replaced home icon with standard Material design, and resolved background service stop/resume crashes.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

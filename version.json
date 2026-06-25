@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "3.0.4",
-  "changelog": "Discover feed now shows Chrome-style article cover images. Interests screen fixed (no clipping on small screens) with emoji topic chips. Added Language & Topics edit button in Discover header.",
-  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v3.0.4/app-debug.apk"
+  "versionCode": 21,
+  "versionName": "5.0 version 2",
+  "changelog": "Kaliki Browser 5.0: Fixed YouTube full-screen, background audio, and black screen issues. Improved news feed with automatic fallback for broken cover images. Added home button to nav bar, splash animation, history search filter, tab thumbnail previews, HD favicons, and adjustable address bar position.",
+  "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

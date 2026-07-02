@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "5.0 version 5",
-  "changelog": "Kaliki Browser 5.0 version 5: Repositioned search suggestions dynamically so they appear above the keyboard in bottom address bar mode, fixed top suggestion overlapping status bar, replaced home icon with standard Material design, and resolved background service stop/resume crashes.",
+  "versionCode": 25,
+  "versionName": "5.0 version 6",
+  "changelog": "Kaliki Browser 5.0 version 6: Fixed bottom bar keyboard overlap by dynamically adjusting bottom padding with keyboard insets, replaced home icon with standard Material home icon, adjusted button padding to prevent cutoff, and wrapped background playback service calls in robust exception handlers.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

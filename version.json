@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "5.0 version 2",
-  "changelog": "Kaliki Browser 5.0: Fixed YouTube full-screen, background audio, and black screen issues. Improved news feed with automatic fallback for broken cover images. Added home button to nav bar, splash animation, history search filter, tab thumbnail previews, HD favicons, and adjustable address bar position.",
+  "versionCode": 26,
+  "versionName": "5.0 version 7",
+  "changelog": "Kaliki Browser 5.0 version 7: Centered developed by Kalikilabs link on NTP, fixed previous website ghost loading state with loading overlay, increased tab switcher card height, fixed history scrolling favicon recycling/flashing using concurrent in-memory caching, enabled default dark mode User Creative Theme for websites, and added New Tab button to NTP header.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

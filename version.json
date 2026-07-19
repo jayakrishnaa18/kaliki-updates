@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "5.0 version 8",
-  "changelog": "Kaliki Browser 5.0 version 8: Fixed status bar / top padding overlap issue in Find in Page layout and other top bars, and implemented a custom in-app Downloads history view (instead of launching the system file manager).",
+  "versionCode": 13,
+  "versionName": "3.0.3",
+  "changelog": "Kaliki Browser 3.0.3: Removed REQUEST_INSTALL_PACKAGES permission for Google Play Store compliance, fixed status bar layout overlaps, custom in-app Downloads history dialog, and resolved pull-to-refresh webpage scrolling gesture conflicts.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

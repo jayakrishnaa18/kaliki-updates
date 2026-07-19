@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "5.0 version 7",
-  "changelog": "Kaliki Browser 5.0 version 7: Centered developed by Kalikilabs link on NTP, fixed previous website ghost loading state with loading overlay, increased tab switcher card height, fixed history scrolling favicon recycling/flashing using concurrent in-memory caching, enabled default dark mode User Creative Theme for websites, and added New Tab button to NTP header.",
+  "versionCode": 27,
+  "versionName": "5.0 version 8",
+  "changelog": "Kaliki Browser 5.0 version 8: Fixed status bar / top padding overlap issue in Find in Page layout and other top bars, and implemented a custom in-app Downloads history view (instead of launching the system file manager).",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

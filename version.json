@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "3.0.3",
-  "changelog": "Kaliki Browser 3.0.3: Removed REQUEST_INSTALL_PACKAGES permission for Google Play Store compliance, fixed status bar layout overlaps, custom in-app Downloads history dialog, and resolved pull-to-refresh webpage scrolling gesture conflicts.",
+  "versionCode": 15,
+  "versionName": "3.0.5-test",
+  "changelog": "Test update flow: verifying crash fixes, downloads list improvements, and scroll gestures.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "3.0.6",
-  "changelog": "Kaliki Browser 3.0.6: Integrated Firebase Crashlytics and fixed GeckoSession and GeckoRuntime singleton crash issues.",
+  "versionCode": 18,
+  "versionName": "3.0.8",
+  "changelog": "Kaliki Browser 3.0.8: Optimized news feed cover images load speed, fixed category chips cache on startup, and removed scrap-redirection delay.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

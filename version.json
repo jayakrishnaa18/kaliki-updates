@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "3.0.9",
-  "changelog": "Kaliki Browser 3.0.9: Fixed news feed caching parameters, restored source favicon logos, and implemented double-layer strict adblocking and DOM cleaning rules.",
+  "versionCode": 20,
+  "versionName": "3.1.0",
+  "changelog": "Kaliki Browser 3.1.0: Redesigned dark/light themes with cool grey, white, and clean blue accents (Chrome/Brave style); integrated local high-resolution Krihaa logo; fixed TV/OTT category chip naming filter.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

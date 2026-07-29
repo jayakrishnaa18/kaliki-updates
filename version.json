@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "3.1.0",
-  "changelog": "Kaliki Browser 3.1.0: Redesigned dark/light themes with cool grey, white, and clean blue accents (Chrome/Brave style); integrated local high-resolution Krihaa logo; fixed TV/OTT category chip naming filter.",
+  "versionCode": 21,
+  "versionName": "3.2.0",
+  "changelog": "Kaliki Browser 3.2.0: Restored last session url on launch; added English/Telugu language toggle in Discover feed; implemented native website notification confirmation prompts; enabled persistent system notification to close all private tabs at once; expanded lists view dialogs height to 75% for modern bookmarks, history, and reading list.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

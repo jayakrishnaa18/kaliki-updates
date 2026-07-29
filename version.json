@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2.2",
-  "changelog": "Kaliki Browser 3.2.2: Added 16 KB memory page size alignment compatibility using AGP 8.5.1 and disabled legacy native library packaging; modernized all remaining dialogs using MaterialAlertDialogBuilder.",
+  "versionCode": 24,
+  "versionName": "3.2.3",
+  "changelog": "Kaliki Browser 3.2.3: Upgraded GeckoView to 153.0 with native 16 KB page alignment support; fixed page back/forward navigation closure race condition and synchronization bugs.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.2.0",
-  "changelog": "Kaliki Browser 3.2.0: Restored last session url on launch; added English/Telugu language toggle in Discover feed; implemented native website notification confirmation prompts; enabled persistent system notification to close all private tabs at once; expanded lists view dialogs height to 75% for modern bookmarks, history, and reading list.",
+  "versionCode": 23,
+  "versionName": "3.2.2",
+  "changelog": "Kaliki Browser 3.2.2: Added 16 KB memory page size alignment compatibility using AGP 8.5.1 and disabled legacy native library packaging; modernized all remaining dialogs using MaterialAlertDialogBuilder.",
   "apkUrl": "https://github.com/jayakrishnaa18/kaliki-updates/releases/download/v5.0/app-debug.apk"
 }
